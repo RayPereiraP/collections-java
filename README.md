@@ -1,6 +1,6 @@
-#Collections
+# Collections
 
-##Boas Práticas de Nomeação
+## Boas Práticas de Nomeação
 
 | Tipo de Identificador  | Convenção                                                        | Exemplo                  |
 |------------------------|------------------------------------------------------------------|----------------------------|
