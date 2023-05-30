@@ -1,4 +1,6 @@
-# Collections
+<h1 align="center">
+  Collections
+</h1>
 
 ## Boas Práticas de Nomeação
 
