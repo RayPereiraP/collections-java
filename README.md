@@ -13,6 +13,51 @@
 | Interfaces             | camelCase (letra maiúscula no início e letras maiúsculas nas palavras subsequentes) | `Runnable`, `Listagem`     |
 | Pacotes                | Tudo em letras minúsculas                                        | `com.empresa.projeto`      |
 
+### Outra visualização dos exemplos citados acima:
+1. Variáveis:
+~~~~Java
+String nomeCompleto;
+int idadeUsuario;
+~~~~
+
+2. Constantes:
+~~~~Java
+final int VALOR_CONSTANTE = 10;
+final int TAMANHO_MAXIMO = 100;
+~~~~
+
+3. Métodos:
+~~~~Java
+public double calcularSalario() {
+}
+
+public String obterNomeCompleto() {
+}
+~~~~
+
+4. Classes:
+~~~~Java
+public class Pessoa {
+}
+
+public class ContaBancaria {
+}
+~~~~
+
+5. Interfaces:
+~~~~Java
+public interface Runnable {
+}
+
+public interface Listagem {
+}
+~~~~
+
+6. Pacotes:
+~~~~Java
+com.empresa.projeto
+~~~~
+
 Além dessas convenções, aqui estão algumas boas práticas gerais ao nomear variáveis em Java:
 
 - Use nomes significativos e descritivos para suas variáveis, para que fique claro qual é a finalidade delas.
